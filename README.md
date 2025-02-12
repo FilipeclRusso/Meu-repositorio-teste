@@ -8,8 +8,8 @@
 
 3. Fazer alterações >> Adicionar | Commitar | Enviar arquivos;
 
-4. Criar uma nova branch;
+4. Criar uma nova branch e mesclando (merge);
 
-5. Realizar um Pull Request e Merge;
+5. Realizar um Pull Request e Fork;
 
-6. Criar um Fork;
+# Criando meu primeiro codespace :)
